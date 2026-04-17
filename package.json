@@ -1,0 +1,7 @@
+{
+  "name": "autocreator-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Construction terminée'"
+  }
+}
